@@ -7,6 +7,8 @@
 To run this live demo please visit:
 https://kunjanpatel1.github.io/frontend-nanodegree-mobile-portfolio/
 
+### Optimizations
+
 ####Part 1: Optimizations in index.html
 
 1) Added media=print to print.css to stop unnecessary loading of this style sheet
@@ -21,6 +23,7 @@ https://kunjanpatel1.github.io/frontend-nanodegree-mobile-portfolio/
 2) Updated funciton changePizzaSizes to only calculate new width once rather than calculating for each pizza.
 3) Removed recurring search for pizzaDiv in for-loop
 4) Removed recurring search for movingPizza element in for-loop
+5) Optimized large image
 
 ###Results
 
@@ -28,5 +31,3 @@ https://kunjanpatel1.github.io/frontend-nanodegree-mobile-portfolio/
   Mobile: 94
   Desktop: 95
   Resuls Link: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fkunjanpatel1.github.io%2Ffrontend-nanodegree-mobile-portfolio%2Findex.html&tab=desktop
-
-  Live Website:https://kunjanpatel1.github.io/frontend-nanodegree-mobile-portfolio/
