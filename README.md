@@ -7,6 +7,8 @@
 To run this live demo please visit:
 https://kunjanpatel1.github.io/frontend-nanodegree-mobile-portfolio/
 
+To run this locally just open index.html in your favorite local browser.
+
 ### Optimizations
 
 ####Part 1: Optimizations in index.html
